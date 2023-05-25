@@ -2,7 +2,7 @@ load "ozmansiksek_TorsHelp.m";
 load "X0N_NiceModel.m";
 load "HelpTorsion.m";
 
-//We find a model for X0(60), using code taken from Bruin-Vukorepa https://github.com/brutalni-vux/QuadPtsBielliptic
+//We find a model for X0(60), using code taken from Najman-Vukorepa https://github.com/brutalni-vux/QuadPtsBielliptic
 
 C:=CuspForms(60);
 "Dimension of CuspForms(60) is:";
