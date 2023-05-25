@@ -1,0 +1,907 @@
+Magma V2.25-4     Thu May 25 2023 15:31:14 on magma-somas [Seed = 320341237]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "X046.m"
+Searching for all cubic pts on X0(46)
+-------------------------------------
+There is a cubic point on X0(46)!
+-----------------------------------
+There is a cubic point on X0(46)!
+-----------------------------------
+The cubic pt corresponding to Place at (t : 0 : 1)
+is defined over the Number Field with defining polynomial x^3 - 2*x^2 + 3*x - 1 
+over the Rational Field
+The Galois group of k has order 6
+-------------------------------------------
+-------------------------------------------
+The cubic pt corresponding to Place at (t : 0 : 1)
+is defined over the Number Field with defining polynomial x^3 + x^2 - x + 7 over
+the Rational Field
+The Galois group of k has order 6
+-------------------------------------------
+-------------------------------------------
+Searching for all primitive degree 4 pts on X0(46)
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+There is a degree 4 pt on X0(46)!
+-----------------------------------
+The quartic pt corresponding to Place at (t : t^2 - 4*t + 11 : 1)
+is defined over the Number Field with defining polynomial x^4 - 2*x^3 + 6*x^2 - 
+    5*x + 8 over the Rational Field
+The Galois Group of k has order 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : -2*t^3 + 5*t^2 - 8*t + 1 : 1)
+is defined over the Number Field with defining polynomial x^4 - x^3 + 4*x^2 - x 
+    + 1 over the Rational Field
+The Galois Group of k has order 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : 1/27*(35*t^3 + 7*t^2 + 125*t + 17)
+: 1)
+is defined over the Number Field with defining polynomial x^4 - 1/3*x^3 + 
+    7/3*x^2 + 5/3*x + 2/3 over the Rational Field
+The Galois Group of k has order 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : -2*t^3 + 3*t^2 - 6*t + 1 : 1)
+is defined over the Number Field with defining polynomial x^4 - x^3 + 2*x^2 + x 
+    + 1 over the Rational Field
+The Galois Group of k has order 4
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : 2*t^3 - 9*t^2 + 10*t - 7 : 1)
+is defined over the Number Field with defining polynomial x^4 + x^2 + 2 over the
+Rational Field
+The Galois Group of k has order 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : 1/64*(-233*t^3 + 543*t^2 - 651*t +
+    301) : 1)
+is defined over the Number Field with defining polynomial x^4 - 11/4*x^3 + 
+    21/4*x^2 - 17/4*x + 11/4 over the Rational Field
+The Galois Group of k has order 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : 1/8*(-7*t^3 + 6*t^2 - 12*t + 11) :
+1)
+is defined over the Number Field with defining polynomial x^4 - 1/2*x^3 + x^2 + 
+    x + 1/2 over the Rational Field
+The Galois Group of k has order 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : 1/8*(7*t^3 - 6*t^2 + 12*t - 11) : 
+1)
+is defined over the Number Field with defining polynomial x^4 - 1/2*x^3 + x^2 + 
+    x + 1/2 over the Rational Field
+The Galois Group of k has order 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : 1/64*(233*t^3 - 543*t^2 + 651*t - 
+    301) : 1)
+is defined over the Number Field with defining polynomial x^4 - 11/4*x^3 + 
+    21/4*x^2 - 17/4*x + 11/4 over the Rational Field
+The Galois Group of k has order 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : -2*t^3 + 9*t^2 - 10*t + 7 : 1)
+is defined over the Number Field with defining polynomial x^4 + x^2 + 2 over the
+Rational Field
+The Galois Group of k has order 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : 2*t^3 - 3*t^2 + 6*t - 1 : 1)
+is defined over the Number Field with defining polynomial x^4 - x^3 + 2*x^2 + x 
+    + 1 over the Rational Field
+The Galois Group of k has order 4
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : 1/27*(-35*t^3 - 7*t^2 - 125*t - 
+    17) : 1)
+is defined over the Number Field with defining polynomial x^4 - 1/3*x^3 + 
+    7/3*x^2 + 5/3*x + 2/3 over the Rational Field
+The Galois Group of k has order 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : 2*t^3 - 5*t^2 + 8*t - 1 : 1)
+is defined over the Number Field with defining polynomial x^4 - x^3 + 4*x^2 - x 
+    + 1 over the Rational Field
+The Galois Group of k has order 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt corresponding to Place at (t : -t^2 + 4*t - 11 : 1)
+is defined over the Number Field with defining polynomial x^4 - 2*x^3 + 6*x^2 - 
+    5*x + 8 over the Rational Field
+The Galois Group of k has order 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+Searching for all degree 5 pts on X0(46)
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+There is a degree 5 pt on X0(46)!
+-----------------------------------
+The degree 5 pt Place at (t : 1/64*(23*t^4 + 466*t^3 - 950*t^2 + 1493*t - 480) :
+1)
+is defined over the Number Field with defining polynomial x^5 - 1/8*x^4 + 
+    9/4*x^3 - 7/4*x^2 + 61/8*x - 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/64*(-23*t^4 + 46*t^3 - 138*t^2 + 299*t - 224) : 
+1)
+is defined over the Number Field with defining polynomial x^5 - 23/8*x^4 + 
+    31/4*x^3 - 41/4*x^2 + 91/8*x - 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : t^4 - 2*t^3 + 6*t^2 + 18*t - 15 : 1)
+is defined over the Number Field with defining polynomial x^5 + 3*x^3 + 6*x^2 + 
+    2*x - 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/25*(56*t^4 - 221*t^3 + 315*t^2 - 283*t - 51) : 
+    1)
+is defined over the Number Field with defining polynomial x^5 + 8/5*x^4 - 
+    8/5*x^3 + 6*x^2 + 11/5*x + 2/5 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/225*(746*t^4 - 36*t^3 - 85*t^2 + 2722*t - 91) : 
+1)
+is defined over the Number Field with defining polynomial x^5 - 29/15*x^4 + 
+    8/5*x^3 - 1/3*x^2 - 13/15*x - 56/15 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(-5*t^4 + 18*t^3 - 38*t^2 + 38*t - 5) : 1)
+is defined over the Number Field with defining polynomial x^5 - 8/3*x^4 + 7*x^3 
+    - 26/3*x^2 + 26/3*x - 8/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : -t^4 + 18*t^2 - 28*t + 11 : 1)
+is defined over the Number Field with defining polynomial x^5 + x^4 + 3*x^3 + 
+    11*x^2 - 16*x + 8 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(-9*t^4 + 19*t^3 - 43*t^2 + 41*t - 16) : 1)
+is defined over the Number Field with defining polynomial x^5 - 3/2*x^4 + 
+    9/2*x^3 - 5/2*x^2 + 9/2*x - 2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(-47*t^4 + 129*t^3 - 257*t^2 + 227*t - 140) : 
+1)
+is defined over the Number Field with defining polynomial x^5 + 3/2*x^4 - 
+    13/2*x^3 + 41/2*x^2 - 41/2*x + 16 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/36*(455*t^4 - 1313*t^3 + 2705*t^2 - 2503*t + 
+    1600) : 1)
+is defined over the Number Field with defining polynomial x^5 - 31/6*x^4 + 
+    73/6*x^3 - 109/6*x^2 + 89/6*x - 22/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/36*(-239*t^4 + 125*t^3 - 725*t^2 + 235*t - 1204)
+: 1)
+is defined over the Number Field with defining polynomial x^5 - 17/6*x^4 + 
+    11/6*x^3 - 23/6*x^2 + 7/6*x - 32/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 5*t^4 + t^3 + 7*t^2 + 7*t + 20 : 1)
+is defined over the Number Field with defining polynomial x^5 + 2*x^4 + x^3 + 
+    7*x^2 + 2*x + 11 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 22*t^3 - 47*t^2 + 40*t - 11 : 1)
+is defined over the Number Field with defining polynomial x^5 + x^4 + 4*x^3 - 
+    11*x^2 + 13*x - 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/18*(-625*t^4 + 1688*t^3 - 3191*t^2 + 2646*t - 
+    1490) : 1)
+is defined over the Number Field with defining polynomial x^5 - 23/3*x^4 + 
+    113/6*x^3 - 91/3*x^2 + 49/2*x - 37/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 34*t^4 - 94*t^3 + 179*t^2 - 152*t + 85 : 1)
+is defined over the Number Field with defining polynomial x^5 + 4*x^4 - 13*x^3 +
+    30*x^2 - 26*x + 16 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/2*(t^4 - 5*t^2 + 10*t - 10) : 1)
+is defined over the Number Field with defining polynomial x^5 - x^4 + 3/2*x^3 + 
+    x^2 + 1/2*x - 1 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/2*(19*t^4 - 54*t^3 + 64*t^2 - 34*t + 5) : 1)
+is defined over the Number Field with defining polynomial x^5 + 2*x^4 - 11/2*x^3
+    + 15/2*x^2 - 3/2*x + 1/2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/108*(-243*t^4 + 589*t^3 - 973*t^2 + 715*t - 392)
+: 1)
+is defined over the Number Field with defining polynomial x^5 - 19/6*x^4 + 
+    119/18*x^3 - 131/18*x^2 + 95/18*x - 14/9 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(t^4 - 11*t^3 + 19*t^2 - 29*t + 4) : 1)
+is defined over the Number Field with defining polynomial x^5 + 1/2*x^4 - 
+    3/2*x^3 + 15/2*x^2 - 7/2*x + 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/2*(3*t^4 - 4*t^3 + 14*t^2 - 12*t + 15) : 1)
+is defined over the Number Field with defining polynomial x^5 - 1/2*x^3 + 
+    21/2*x^2 - 21/2*x + 23/2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/2*(3*t^4 - 3*t^3 + 11*t^2 - 9*t + 6) : 1)
+is defined over the Number Field with defining polynomial x^5 - 2*x^4 + 11/2*x^3
+    - 6*x^2 + 11/2*x - 2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/18*(-85*t^4 + 203*t^3 - 329*t^2 + 297*t - 86) : 
+1)
+is defined over the Number Field with defining polynomial x^5 + 4/3*x^4 - 
+    13/6*x^3 + 26/3*x^2 - 11/2*x + 8/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(-4*t^4 + 32*t^3 - 59*t^2 + 76*t - 17) : 1)
+is defined over the Number Field with defining polynomial x^5 - 7/3*x^4 + 
+    14/3*x^3 - 11/3*x^2 + 7/3*x - 2/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/144*(-557*t^4 + 1576*t^3 - 2962*t^2 + 2456*t - 
+    1537) : 1)
+is defined over the Number Field with defining polynomial x^5 + 1/12*x^4 - 
+    8/3*x^3 + 85/6*x^2 - 43/3*x + 149/12 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : -7*t^4 + 13*t^3 - 33*t^2 + 27*t - 24 : 1)
+is defined over the Number Field with defining polynomial x^5 + 2*x^4 - x^3 + 
+    11*x^2 - 8*x + 11 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/64*(535*t^4 - 773*t^3 + 2163*t^2 - 1671*t + 
+    1650) : 1)
+is defined over the Number Field with defining polynomial x^5 - 35/8*x^4 + 
+    73/8*x^3 - 127/8*x^2 + 107/8*x - 37/4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/64*(-23*t^4 - 443*t^3 + 717*t^2 - 1209*t + 590) 
+: 1)
+is defined over the Number Field with defining polynomial x^5 + 3/8*x^4 + 
+    23/8*x^3 - 1/8*x^2 + 37/8*x - 11/4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : -15*t^4 + 22*t^3 - 42*t^2 + 2*t - 7 : 1)
+is defined over the Number Field with defining polynomial x^5 + 3*x^4 - 3*x^3 + 
+    11*x^2 + 2*x + 2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/64*(1024*t^4 - 1303*t^3 + 2529*t^2 + 395*t + 
+    467) : 1)
+is defined over the Number Field with defining polynomial x^5 - 21/4*x^4 + 
+    133/16*x^3 - 171/16*x^2 + 15/16*x - 29/16 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 2*t^4 - 8*t^3 + 13*t^2 - 12*t + 5 : 1)
+is defined over the Number Field with defining polynomial x^5 + x^4 - 2*x^3 + 
+    7*x^2 - 3*x + 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/36*(-211*t^4 + 393*t^3 - 1154*t^2 + 939*t - 991)
+: 1)
+is defined over the Number Field with defining polynomial x^5 - 23/6*x^4 + 
+    17/2*x^3 - 44/3*x^2 + 25/2*x - 53/6 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(46*t^4 - 69*t^3 + 203*t^2 - 147*t + 151) : 1)
+is defined over the Number Field with defining polynomial x^5 + 4/3*x^4 + 
+    38/3*x^2 - 9*x + 46/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(5*t^4 - 22*t^3 + 39*t^2 - 46*t + 16) : 1)
+is defined over the Number Field with defining polynomial x^5 - 3/2*x^4 + 4*x^3 
+    - 5/2*x^2 + 5*x - 2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/100*(-861*t^4 + 1838*t^3 - 3475*t^2 + 1926*t - 
+    764) : 1)
+is defined over the Number Field with defining polynomial x^5 - 39/10*x^4 + 
+    36/5*x^3 - 17/2*x^2 + 17/5*x - 8/5 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/400*(2819*t^4 - 4952*t^3 + 9550*t^2 - 3304*t + 
+    2031) : 1)
+is defined over the Number Field with defining polynomial x^5 + 23/20*x^4 - 
+    16/5*x^3 + 23/2*x^2 - 37/5*x + 67/20 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/8*(23*t^3 - 46*t^2 + 60*t - 35) : 1)
+is defined over the Number Field with defining polynomial x^5 - 5/2*x^4 + 
+    23/4*x^3 - 13/2*x^2 + 11/2*x - 7/4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(23*t^4 - 46*t^3 + 92*t^2 - 42*t + 29) : 1)
+is defined over the Number Field with defining polynomial x^5 - 7/3*x^4 + 
+    23/3*x^3 - 31/3*x^2 + 14*x - 22/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(-50*t^4 + 64*t^3 - 101*t^2 - 66*t + 61) : 1)
+is defined over the Number Field with defining polynomial x^5 - 2/3*x^4 + 
+    4/3*x^3 + 7/3*x^2 - 2/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/12*(-49*t^4 + 131*t^3 - 214*t^2 + 185*t - 53) : 
+1)
+is defined over the Number Field with defining polynomial x^5 + 3/2*x^4 - 
+    13/6*x^3 + 20/3*x^2 - 7/2*x + 11/6 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(-23*t^4 + 46*t^3 - 153*t^2 + 142*t - 196) : 
+    1)
+is defined over the Number Field with defining polynomial x^5 + 3/2*x^4 + 
+    33/2*x^2 - 11*x + 28 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(23*t^4 - 38*t^3 + 133*t^2 - 102*t + 168) : 1)
+is defined over the Number Field with defining polynomial x^5 - 9/2*x^4 + 12*x^3
+    - 47/2*x^2 + 25*x - 22 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/3*(2*t^4 - 16*t^3 + 35*t^2 - 52*t + 31) : 1)
+is defined over the Number Field with defining polynomial x^5 - 3*x^4 + 26/3*x^3
+    - 35/3*x^2 + 13*x - 16/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/81*(-23*t^4 - 683*t^3 + 1135*t^2 - 1877*t + 896)
+: 1)
+is defined over the Number Field with defining polynomial x^5 + 2/9*x^4 + 
+    23/9*x^3 - 13/9*x^2 + 56/9*x - 29/9 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/81*(23*t^4 + 683*t^3 - 1135*t^2 + 1877*t - 896) 
+: 1)
+is defined over the Number Field with defining polynomial x^5 + 2/9*x^4 + 
+    23/9*x^3 - 13/9*x^2 + 56/9*x - 29/9 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/81*(-23*t^4 + 46*t^3 - 890*t^2 + 1282*t - 2263) 
+: 1)
+is defined over the Number Field with defining polynomial x^5 - 29/9*x^4 + 
+    85/9*x^3 - 149/9*x^2 + 178/9*x - 142/9 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/81*(23*t^4 - 46*t^3 + 890*t^2 - 1282*t + 2263) :
+1)
+is defined over the Number Field with defining polynomial x^5 - 29/9*x^4 + 
+    85/9*x^3 - 149/9*x^2 + 178/9*x - 142/9 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/12*(49*t^4 - 131*t^3 + 214*t^2 - 185*t + 53) : 
+    1)
+is defined over the Number Field with defining polynomial x^5 + 3/2*x^4 - 
+    13/6*x^3 + 20/3*x^2 - 7/2*x + 11/6 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/3*(-2*t^4 + 16*t^3 - 35*t^2 + 52*t - 31) : 1)
+is defined over the Number Field with defining polynomial x^5 - 3*x^4 + 26/3*x^3
+    - 35/3*x^2 + 13*x - 16/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(-23*t^4 + 38*t^3 - 133*t^2 + 102*t - 168) : 
+    1)
+is defined over the Number Field with defining polynomial x^5 - 9/2*x^4 + 12*x^3
+    - 47/2*x^2 + 25*x - 22 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(23*t^4 - 46*t^3 + 153*t^2 - 142*t + 196) : 1)
+is defined over the Number Field with defining polynomial x^5 + 3/2*x^4 + 
+    33/2*x^2 - 11*x + 28 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/8*(-23*t^3 + 46*t^2 - 60*t + 35) : 1)
+is defined over the Number Field with defining polynomial x^5 - 5/2*x^4 + 
+    23/4*x^3 - 13/2*x^2 + 11/2*x - 7/4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(50*t^4 - 64*t^3 + 101*t^2 + 66*t - 61) : 1)
+is defined over the Number Field with defining polynomial x^5 - 2/3*x^4 + 
+    4/3*x^3 + 7/3*x^2 - 2/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(-23*t^4 + 46*t^3 - 92*t^2 + 42*t - 29) : 1)
+is defined over the Number Field with defining polynomial x^5 - 7/3*x^4 + 
+    23/3*x^3 - 31/3*x^2 + 14*x - 22/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(-46*t^4 + 69*t^3 - 203*t^2 + 147*t - 151) : 
+    1)
+is defined over the Number Field with defining polynomial x^5 + 4/3*x^4 + 
+    38/3*x^2 - 9*x + 46/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/36*(211*t^4 - 393*t^3 + 1154*t^2 - 939*t + 991) 
+: 1)
+is defined over the Number Field with defining polynomial x^5 - 23/6*x^4 + 
+    17/2*x^3 - 44/3*x^2 + 25/2*x - 53/6 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : -2*t^4 + 8*t^3 - 13*t^2 + 12*t - 5 : 1)
+is defined over the Number Field with defining polynomial x^5 + x^4 - 2*x^3 + 
+    7*x^2 - 3*x + 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/400*(-2819*t^4 + 4952*t^3 - 9550*t^2 + 3304*t - 
+    2031) : 1)
+is defined over the Number Field with defining polynomial x^5 + 23/20*x^4 - 
+    16/5*x^3 + 23/2*x^2 - 37/5*x + 67/20 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/100*(861*t^4 - 1838*t^3 + 3475*t^2 - 1926*t + 
+    764) : 1)
+is defined over the Number Field with defining polynomial x^5 - 39/10*x^4 + 
+    36/5*x^3 - 17/2*x^2 + 17/5*x - 8/5 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(-5*t^4 + 22*t^3 - 39*t^2 + 46*t - 16) : 1)
+is defined over the Number Field with defining polynomial x^5 - 3/2*x^4 + 4*x^3 
+    - 5/2*x^2 + 5*x - 2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/64*(23*t^4 + 443*t^3 - 717*t^2 + 1209*t - 590) :
+1)
+is defined over the Number Field with defining polynomial x^5 + 3/8*x^4 + 
+    23/8*x^3 - 1/8*x^2 + 37/8*x - 11/4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/64*(-535*t^4 + 773*t^3 - 2163*t^2 + 1671*t - 
+    1650) : 1)
+is defined over the Number Field with defining polynomial x^5 - 35/8*x^4 + 
+    73/8*x^3 - 127/8*x^2 + 107/8*x - 37/4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 7*t^4 - 13*t^3 + 33*t^2 - 27*t + 24 : 1)
+is defined over the Number Field with defining polynomial x^5 + 2*x^4 - x^3 + 
+    11*x^2 - 8*x + 11 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/64*(-1024*t^4 + 1303*t^3 - 2529*t^2 - 395*t - 
+    467) : 1)
+is defined over the Number Field with defining polynomial x^5 - 21/4*x^4 + 
+    133/16*x^3 - 171/16*x^2 + 15/16*x - 29/16 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 15*t^4 - 22*t^3 + 42*t^2 - 2*t + 7 : 1)
+is defined over the Number Field with defining polynomial x^5 + 3*x^4 - 3*x^3 + 
+    11*x^2 + 2*x + 2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/18*(85*t^4 - 203*t^3 + 329*t^2 - 297*t + 86) : 
+    1)
+is defined over the Number Field with defining polynomial x^5 + 4/3*x^4 - 
+    13/6*x^3 + 26/3*x^2 - 11/2*x + 8/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/2*(-3*t^4 + 3*t^3 - 11*t^2 + 9*t - 6) : 1)
+is defined over the Number Field with defining polynomial x^5 - 2*x^4 + 11/2*x^3
+    - 6*x^2 + 11/2*x - 2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/144*(557*t^4 - 1576*t^3 + 2962*t^2 - 2456*t + 
+    1537) : 1)
+is defined over the Number Field with defining polynomial x^5 + 1/12*x^4 - 
+    8/3*x^3 + 85/6*x^2 - 43/3*x + 149/12 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(4*t^4 - 32*t^3 + 59*t^2 - 76*t + 17) : 1)
+is defined over the Number Field with defining polynomial x^5 - 7/3*x^4 + 
+    14/3*x^3 - 11/3*x^2 + 7/3*x - 2/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/2*(-19*t^4 + 54*t^3 - 64*t^2 + 34*t - 5) : 1)
+is defined over the Number Field with defining polynomial x^5 + 2*x^4 - 11/2*x^3
+    + 15/2*x^2 - 3/2*x + 1/2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/2*(-3*t^4 + 4*t^3 - 14*t^2 + 12*t - 15) : 1)
+is defined over the Number Field with defining polynomial x^5 - 1/2*x^3 + 
+    21/2*x^2 - 21/2*x + 23/2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(-t^4 + 11*t^3 - 19*t^2 + 29*t - 4) : 1)
+is defined over the Number Field with defining polynomial x^5 + 1/2*x^4 - 
+    3/2*x^3 + 15/2*x^2 - 7/2*x + 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/108*(243*t^4 - 589*t^3 + 973*t^2 - 715*t + 392) 
+: 1)
+is defined over the Number Field with defining polynomial x^5 - 19/6*x^4 + 
+    119/18*x^3 - 131/18*x^2 + 95/18*x - 14/9 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : -22*t^3 + 47*t^2 - 40*t + 11 : 1)
+is defined over the Number Field with defining polynomial x^5 + x^4 + 4*x^3 - 
+    11*x^2 + 13*x - 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/2*(-t^4 + 5*t^2 - 10*t + 10) : 1)
+is defined over the Number Field with defining polynomial x^5 - x^4 + 3/2*x^3 + 
+    x^2 + 1/2*x - 1 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : -34*t^4 + 94*t^3 - 179*t^2 + 152*t - 85 : 1)
+is defined over the Number Field with defining polynomial x^5 + 4*x^4 - 13*x^3 +
+    30*x^2 - 26*x + 16 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/18*(625*t^4 - 1688*t^3 + 3191*t^2 - 2646*t + 
+    1490) : 1)
+is defined over the Number Field with defining polynomial x^5 - 23/3*x^4 + 
+    113/6*x^3 - 91/3*x^2 + 49/2*x - 37/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(9*t^4 - 19*t^3 + 43*t^2 - 41*t + 16) : 1)
+is defined over the Number Field with defining polynomial x^5 - 3/2*x^4 + 
+    9/2*x^3 - 5/2*x^2 + 9/2*x - 2 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : t^4 - 18*t^2 + 28*t - 11 : 1)
+is defined over the Number Field with defining polynomial x^5 + x^4 + 3*x^3 + 
+    11*x^2 - 16*x + 8 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : -5*t^4 - t^3 - 7*t^2 - 7*t - 20 : 1)
+is defined over the Number Field with defining polynomial x^5 + 2*x^4 + x^3 + 
+    7*x^2 + 2*x + 11 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/36*(239*t^4 - 125*t^3 + 725*t^2 - 235*t + 1204) 
+: 1)
+is defined over the Number Field with defining polynomial x^5 - 17/6*x^4 + 
+    11/6*x^3 - 23/6*x^2 + 7/6*x - 32/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/36*(-455*t^4 + 1313*t^3 - 2705*t^2 + 2503*t - 
+    1600) : 1)
+is defined over the Number Field with defining polynomial x^5 - 31/6*x^4 + 
+    73/6*x^3 - 109/6*x^2 + 89/6*x - 22/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/4*(47*t^4 - 129*t^3 + 257*t^2 - 227*t + 140) : 
+    1)
+is defined over the Number Field with defining polynomial x^5 + 3/2*x^4 - 
+    13/2*x^3 + 41/2*x^2 - 41/2*x + 16 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : -t^4 + 2*t^3 - 6*t^2 - 18*t + 15 : 1)
+is defined over the Number Field with defining polynomial x^5 + 3*x^3 + 6*x^2 + 
+    2*x - 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/9*(5*t^4 - 18*t^3 + 38*t^2 - 38*t + 5) : 1)
+is defined over the Number Field with defining polynomial x^5 - 8/3*x^4 + 7*x^3 
+    - 26/3*x^2 + 26/3*x - 8/3 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/225*(-746*t^4 + 36*t^3 + 85*t^2 - 2722*t + 91) :
+1)
+is defined over the Number Field with defining polynomial x^5 - 29/15*x^4 + 
+    8/5*x^3 - 1/3*x^2 - 13/15*x - 56/15 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/25*(-56*t^4 + 221*t^3 - 315*t^2 + 283*t + 51) : 
+1)
+is defined over the Number Field with defining polynomial x^5 + 8/5*x^4 - 
+    8/5*x^3 + 6*x^2 + 11/5*x + 2/5 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/64*(23*t^4 - 46*t^3 + 138*t^2 - 299*t + 224) : 
+    1)
+is defined over the Number Field with defining polynomial x^5 - 23/8*x^4 + 
+    31/4*x^3 - 41/4*x^2 + 91/8*x - 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+The degree 5 pt Place at (t : 1/64*(-23*t^4 - 466*t^3 + 950*t^2 - 1493*t + 480) 
+: 1)
+is defined over the Number Field with defining polynomial x^5 - 1/8*x^4 + 
+    9/4*x^3 - 7/4*x^2 + 61/8*x - 4 over the Rational Field
+The Galois group of k has order 120
+-------------------------------------------
+-------------------------------------------
+
+Total time: 54.609 seconds, Total memory usage: 85.16MB

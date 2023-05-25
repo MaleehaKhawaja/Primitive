@@ -1,0 +1,165 @@
+Magma V2.25-4     Thu May 25 2023 15:31:26 on magma-somas [Seed = 17438442]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "X047.m"
+We want to find all cubic pts, and all primitive degree 4 points on X0(47)
+-----------------------------------
+We know from Bruin-Najman J(Q)=Z/23Z, its generator is the divisor
+(1, -x^5 + 3*x^4, 2)
+-----------------------------------
+We're searching for cubic points on X0(47).
+        We know all cubic pts arise from a 1-dimensional RR space.
+-----------------------------------
+There is a cubic pt on X0(47)!
+-----------------------------------
+There is a cubic pt on X0(47)!
+-----------------------------------
+We have a list of the indices of the 'torsion part' of the divisor,
+so we can find the points explicitly :))
+-----------------------------------
+The cubic pt Place at (t : 1/8*(-15*t^2 + 17*t - 19) : 1)
+is defined over the Number Field with defining polynomial x^3 + 1/2*x^2 + 1/2*x 
+    + 3/2 over the Rational Field
+The Galois group of k has order 6
+-------------------------------------------
+-------------------------------------------
+The cubic pt Place at (t : 1/8*(15*t^2 - 17*t + 19) : 1)
+is defined over the Number Field with defining polynomial x^3 + 1/2*x^2 + 1/2*x 
+    + 3/2 over the Rational Field
+The Galois group of k has order 6
+-------------------------------------------
+-------------------------------------------
+We're searching for primitive quartic points on X0(47).
+       We know all primitive quartic pts arise from a 1-dimensional RR space.
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+There is a degree 4 pt on X0(47)!
+-----------------------------------
+We have a list of the indices of the 'torsion part' of the divisor,
+so we can find the points explicitly :))
+-----------------------------------
+The quartic pt Place at (t : 1/4*(-3*t^3 - 7*t^2 - 32*t - 107) : 1)
+is defined over the Number Field with defining polynomial x^4 + 1/2*x^3 + 
+    7/2*x^2 + 5*x + 15/2 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/36*(-77*t^3 + 27*t^2 - 200*t + 51) : 1)
+is defined over the Number Field with defining polynomial x^4 - 7/6*x^3 + 
+    5/2*x^2 - 5/3*x + 1/2 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/1521*(1856*t^3 + 1098*t^2 + 3275*t + 3000) : 1)
+is defined over the Number Field with defining polynomial x^4 - 58/39*x^3 + 
+    43/13*x^2 - 106/39*x + 37/13 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/676*(-1069*t^3 - 150*t^2 - 911*t - 1277) : 1)
+is defined over the Number Field with defining polynomial x^4 - 35/26*x^3 + 
+    48/13*x^2 - 55/26*x + 69/26 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/4*(13*t^3 - 14*t^2 + 19*t - 7) : 1)
+is defined over the Number Field with defining polynomial x^4 - 3/2*x^3 + 2*x^2 
+    - 3/2*x + 1/2 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/8*(-32*t^3 + 63*t^2 - 73*t + 51) : 1)
+is defined over the Number Field with defining polynomial x^4 - 5/2*x^3 + 
+    15/4*x^2 - 13/4*x + 5/4 over the Rational Field
+The Galois group of k has size 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 3*t^3 - 3*t^2 + 5*t - 1 : 1)
+is defined over the Number Field with defining polynomial x^4 - x^3 + 4*x^2 - 
+    2*x + 3 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : -3*t^3 + 3*t^2 - 5*t + 1 : 1)
+is defined over the Number Field with defining polynomial x^4 - x^3 + 4*x^2 - 
+    2*x + 3 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/8*(32*t^3 - 63*t^2 + 73*t - 51) : 1)
+is defined over the Number Field with defining polynomial x^4 - 5/2*x^3 + 
+    15/4*x^2 - 13/4*x + 5/4 over the Rational Field
+The Galois group of k has size 8
+The point is not primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/4*(-13*t^3 + 14*t^2 - 19*t + 7) : 1)
+is defined over the Number Field with defining polynomial x^4 - 3/2*x^3 + 2*x^2 
+    - 3/2*x + 1/2 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/676*(1069*t^3 + 150*t^2 + 911*t + 1277) : 1)
+is defined over the Number Field with defining polynomial x^4 - 35/26*x^3 + 
+    48/13*x^2 - 55/26*x + 69/26 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/1521*(-1856*t^3 - 1098*t^2 - 3275*t - 3000) : 1)
+is defined over the Number Field with defining polynomial x^4 - 58/39*x^3 + 
+    43/13*x^2 - 106/39*x + 37/13 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/36*(77*t^3 - 27*t^2 + 200*t - 51) : 1)
+is defined over the Number Field with defining polynomial x^4 - 7/6*x^3 + 
+    5/2*x^2 - 5/3*x + 1/2 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+The quartic pt Place at (t : 1/4*(3*t^3 + 7*t^2 + 32*t + 107) : 1)
+is defined over the Number Field with defining polynomial x^4 + 1/2*x^3 + 
+    7/2*x^2 + 5*x + 15/2 over the Rational Field
+The Galois group of k has size 24
+The point is primitive!
+-------------------------------------------
+-------------------------------------------
+
+Total time: 2.509 seconds, Total memory usage: 85.16MB
