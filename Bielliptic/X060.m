@@ -11,12 +11,12 @@ Dimension(C);
 AL15:=AtkinLehnerOperator(C, 15);
 N15:=Nullspace(Matrix(AL15 - 1));
 
-"Dimesion of eigenspace lambda=1 for w15 is:";
+"Dimension of eigenspace lambda=1 for w15 is:";
 Dimension(N15);
 
 N15c:=Nullspace(Matrix(AL15 + 1));
 
-"Dimesion of eigenspace lambda=-1 for w15 is:";
+"Dimension of eigenspace lambda=-1 for w15 is:";
 Dimension(N15c);
 
 B15:=[&+[(Integers()!(2*Eltseq(Basis(N15)[i])[j]))*C.j : j in [1..Dimension(C)]] : i in [1..Dimension(N15)]];
@@ -130,7 +130,6 @@ TOR:=[i*D2 + j*D3 + k*D5 + l*Dt : i in [-11..12], j in [-11..12], k in [-11..12]
 
 //Now that we have J0(60)(Q) in hand, let's see if we can find its cubic points :)) 
 //We know that all cubic points on X0(60) come from 1-dimensional RR spaces, by Theorem 6.
-
 
 print "Searching for cubic points on X0(60)";
 
