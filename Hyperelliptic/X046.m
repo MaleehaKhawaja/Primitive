@@ -27,11 +27,28 @@ assert Order(D3) eq 22;
 
 //We want to check that D2 and D3 generate J(Q) i.e. that they're linearly independent
 
+J7:=BaseChange(J,GF(7));
+B,mu:=AbelianGroup(J7);
+A:=FreeAbelianGroup(3);                        
+eps:=hom<A->B | [ (J7!Q)@@mu : Q in [D2, D3, D4] ] >;
+C:=Image(eps);
+
+mu2 := (J7!D2)@@mu;
+mu3 := (J7!D3)@@mu;
+
+cuspGp:=AbelianGroup([11,22]);
+delta := hom<cuspGp -> C | [mu2, mu3]>;
+
+assert #Kernel(delta) eq 1;
+assert Image(delta) eq C;
+
+//
+
+assert #Set([i*D2 + j*D3 : i in [0..10], j in [0..21]]) eq 11*22;
+
 D2 := Place(P2) - Place(P1);
 D3 := Place(P3) - Place(P1);
 D4 := Place(P4) - Place(P1);
-
-assert #Set([i*D2 + j*D3 : i in [0..10], j in [0..21]]) eq 11*22;
 
 tors := [i*D2 + j*D3 : i in [0..10], j in [0..21]];
 
@@ -85,7 +102,7 @@ end if;
 //We search for all primitive degree 4 pts,
 //although the points that we find may not be primitive
 
-print "Searching for all primitive degree 4 pts on X0(46)";
+oprint "Searching for all primitive degree 4 pts on X0(46)";
 print "-----------------------------------";
 
 D0 := Place(P1) + Place(P2);
