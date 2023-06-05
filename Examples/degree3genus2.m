@@ -17,6 +17,8 @@ D2 := pts[6];
 assert Order(D1) eq 3;
 assert Order(D2) eq 6;
 
+assert 2*D2 ne D1;
+
 assert #{a*D1+b*D2: a in [0..2], b in [0..5]} eq 18; //D1 and D2 generate J(Q)
 
 D1 := 2*Place(C![0,-1,1])-Place(C![1,-1,0])-Place(C![1,1,0]);
