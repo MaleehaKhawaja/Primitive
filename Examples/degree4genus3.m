@@ -49,6 +49,9 @@ resolvant:=function(f);
         return C;
 end function;
 
+//Let P be a quartic pt on C. If Gal(Q(P)/Q) is a subgroup of A4 then P induces a Q-rational point
+//on a hyperelliptic "discriminant curve". We construct these curves below.
+
 lst:=[* *];
 for a in [0..18] do	
 	if a ne 0 then
