@@ -42,7 +42,7 @@ end for;
 //but I need to check that they aren't linearly dependent
 //i.e. that they generate a group of order 600
 
-print "We use code of Adzaga et al to find generators of J0(38)(Q)."
+print "We use code of Adzaga et al to find generators of J0(38)(Q).";
 //We use this function to check that D2, D3 generate J0(38)(Q).
 findGenerators(X62, 62, cusps, P1, 5);                  
 
