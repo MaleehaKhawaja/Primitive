@@ -44,7 +44,7 @@ end for;
 
 print "We use code of Adzaga et al to find generators of J0(38)(Q).";
 //We use this function to check that D2, D3 generate J0(38)(Q).
-findGenerators(X62, 62, cusps, P1, 5);                  
+findGenerators(X62, 62, cusps, P1, 3);                  
 
 assert #{i*D2+j*D3: i in [0..14], j in [0..39]} eq 600;
 
